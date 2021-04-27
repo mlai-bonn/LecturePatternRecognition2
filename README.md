@@ -1,0 +1,16 @@
+# LecturePatternRecognition2
+
+Solutions to the exercise sheets for the lecture "Pattern Recognition 2".
+
+Necessary packages are listed in patternrec.yml.
+
+To set up a conda environment and make it available to jupyter you can run:
+
+```
+conda env create -f ./sheet01/patternrec.yml
+conda activate patternrec
+
+ipython kernel install --user --name=patternrec_kernel
+```
+
+**You will need to put files that accompanied the original exercise into the Notebook directory.**
