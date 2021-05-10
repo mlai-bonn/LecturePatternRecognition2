@@ -12,5 +12,3 @@ conda activate patternrec
 
 ipython kernel install --user --name=patternrec_kernel
 ```
-
-**You will need to put files that accompanied the original exercise into the Notebook directory.**
